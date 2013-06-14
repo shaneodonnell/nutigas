@@ -1,0 +1,13 @@
+function getHostByAddr(addr) {
+  /*  You
+  var fqdn = "INSERT YOUR SERVER'S FQDN HERE";
+  var addr = addr;
+  var baseUrl = "http://$fqdn/nutigas/reverseDNS/ptr.php?ip=";
+  var url = baseUrl + addr;
+
+  var result = UrlFetchApp.fetch(url);
+  var content = result.getContentText();
+
+  return content;
+  
+}
